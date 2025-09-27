@@ -25,7 +25,7 @@
         android:id="@+id/welcomeText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Welcome"
+        android:text="XIN CHÀO"
         android:textSize="24sp"
         android:textStyle="bold"
         android:textColor="#5D7B6F"
@@ -37,7 +37,7 @@
         android:id="@+id/emailInput"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Email"
+        android:hint="Email / SĐT"
         android:backgroundTint="#A4C3A2"
         android:inputType="textEmailAddress"
         android:layout_marginBottom="16dp" />
@@ -47,7 +47,7 @@
         android:id="@+id/passwordInput"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Password"
+        android:hint="Mật khẩu"
         android:backgroundTint="#A4C3A2"
         android:inputType="textPassword"
         android:layout_marginBottom="24dp" />
@@ -57,7 +57,7 @@
         android:id="@+id/btnSignIn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Sign In"
+        android:text="ĐĂNG NHẬP"
         android:textColor="#FFFFFF"
         android:backgroundTint="#5D7B6F"
         android:layout_marginBottom="16dp" />
@@ -67,7 +67,7 @@
         android:id="@+id/txtCreateAccount"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Create Account"
+        android:text="Quên mật khẩu?"
         android:textColor="#5D7B6F"
         android:textStyle="bold"
         android:layout_gravity="center" />
@@ -76,7 +76,7 @@
         android:id="@+id/btnCreateAccount"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Create Account"
+        android:text="ĐĂNG KÝ TÀI KHOẢN MỚI"
         android:textColor="#FFFFFF"
         android:backgroundTint="#A4C3A2"
         android:layout_marginTop="20dp" />
